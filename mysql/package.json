@@ -1,0 +1,15 @@
+{
+  "name": "rohmanwebid-mongodb",
+  "version": "0.0.1",
+  "description": "mongodb library base on mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rohmanahmad",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.23.1"
+  }
+}
